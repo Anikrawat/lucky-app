@@ -10,7 +10,7 @@ function Shop() {
       title: "I'm a Product",
       oldPrice: 19.99,
       newPrice: 14.99,
-      imageUrl: "/src/assets/1.jpg",
+      imageUrl: "/assets/1.jpg",
       badge: "Sale",
     },
     {
@@ -18,7 +18,7 @@ function Shop() {
       title: "I'm a Product",
       oldPrice: null,
       newPrice: 34.99,
-      imageUrl: "/src/assets/2.png",
+      imageUrl: "/assets/2.png",
       badge: null,
     },
     {
@@ -26,7 +26,7 @@ function Shop() {
       title: "I'm a Product",
       oldPrice: null,
       newPrice: 50.99,
-      imageUrl: "/src/assets/3.jpg",
+      imageUrl: "/assets/3.jpg",
       badge: "Best Seller",
     },
     {
@@ -34,7 +34,7 @@ function Shop() {
       title: "I'm a product",
       oldPrice: null,
       newPrice: 27.0,
-      imageUrl: "/src/assets/4.jpg",
+      imageUrl: "/assets/4.jpg",
       badge: null,
     },
     {
@@ -42,7 +42,7 @@ function Shop() {
       title: "women's sandals",
       oldPrice: null,
       newPrice: 59.0,
-      imageUrl: "/src/assets/5.jpg",
+      imageUrl: "/assets/5.jpg",
       badge: "Sale",
     },
     {
@@ -50,7 +50,7 @@ function Shop() {
       title: "I'm a product",
       oldPrice: null,
       newPrice: 78.0,
-      imageUrl: "/src/assets/6.jpeg",
+      imageUrl: "/assets/6.jpeg",
       badge: null,
     },
     {
@@ -58,7 +58,7 @@ function Shop() {
       title: "I'm a product",
       oldPrice: null,
       newPrice: 31.0,
-      imageUrl: "/src/assets/first.jpg",
+      imageUrl: "/assets/first.jpg",
       badge: null,
     },
     {
@@ -66,7 +66,7 @@ function Shop() {
       title: "I'm a product",
       oldPrice: null,
       newPrice: 19.0,
-      imageUrl: "/src/assets/second.jpg",
+      imageUrl: "/assets/second.jpg",
       badge: "Sale",
     },
     {
@@ -74,7 +74,7 @@ function Shop() {
       title: "I'm a product",
       oldPrice: null,
       newPrice: 39.0,
-      imageUrl: "/src/assets/third.jpg",
+      imageUrl: "/assets/third.jpg",
       badge: null,
     },
     {
@@ -82,7 +82,7 @@ function Shop() {
       title: "I'm a product",
       oldPrice: null,
       newPrice: 83.0,
-      imageUrl: "/src/assets/four.jpg",
+      imageUrl: "/assets/four.jpg",
       badge: "Best Seller",
     },
     {
@@ -90,7 +90,7 @@ function Shop() {
       title: "I'm a product",
       oldPrice: null,
       newPrice: 46.0,
-      imageUrl: "/src/assets/five.jpg",
+      imageUrl: "/assets/five.jpg",
       badge: null,
     },
     {
@@ -98,7 +98,7 @@ function Shop() {
       title: "I'm a product",
       oldPrice: null,
       newPrice: 56.0,
-      imageUrl: "/src/assets/six.jpg",
+      imageUrl: "/assets/six.jpg",
       badge: null,
     },
     {
@@ -106,7 +106,7 @@ function Shop() {
       title: "I'm a Blazer",
       oldPrice: null,
       newPrice: 50.0,
-      imageUrl: "/src/assets/seven.jpg",
+      imageUrl: "/assets/seven.jpg",
       badge: "Sale",
     },
     {
@@ -114,7 +114,7 @@ function Shop() {
       title: "Man jeans",
       oldPrice: null,
       newPrice: 64.0,
-      imageUrl: "/src/assets/eight.jpg",
+      imageUrl: "/assets/eight.jpg",
       badge: "Best Seller",
     },
     {
@@ -122,7 +122,7 @@ function Shop() {
       title: "Reading Glasses",
       oldPrice: null,
       newPrice: 84.0,
-      imageUrl: "/src/assets/nine.png",
+      imageUrl: "/assets/nine.png",
       badge: "Best Seller",
     },
     {
@@ -130,7 +130,7 @@ function Shop() {
       title: "leather handbag",
       oldPrice: null,
       newPrice: 69.0,
-      imageUrl: "/src/assets/ten.png",
+      imageUrl: "/assets/ten.png",
       badge: "sale",
     },
   ];

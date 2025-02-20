@@ -9,7 +9,7 @@ function Sale() {
         title: "I'm a Product",
         oldPrice: 19.99,
         newPrice: 14.99,
-        imageUrl: "/src/assets/1.jpg",
+        imageUrl: "/assets/1.jpg",
         badge: "Sale",
       },
 
@@ -19,7 +19,7 @@ function Sale() {
         title: "women's sandals",
         oldPrice: null,
         newPrice: 59.0,
-        imageUrl: "/src/assets/5.jpg",
+        imageUrl: "/assets/5.jpg",
         badge: "Sale",
       },
 
@@ -29,7 +29,7 @@ function Sale() {
         title: "leather handbag",
         oldPrice: null,
         newPrice: 19.0,
-        imageUrl: "/src/assets/second.jpg",
+        imageUrl: "/assets/second.jpg",
         badge: "Sale",
       },
 
@@ -40,7 +40,7 @@ function Sale() {
         title: "I'm a Blazer",
         oldPrice: null,
         newPrice: 50.0,
-        imageUrl: "/src/assets/seven.jpg",
+        imageUrl: "/assets/seven.jpg",
         badge: "Sale",
       },
 
@@ -50,7 +50,7 @@ function Sale() {
         title: "I'm a handbag",
         oldPrice: null,
         newPrice: 69.0,
-        imageUrl: "/src/assets/ten.png",
+        imageUrl: "/assets/ten.png",
         badge: "sale",
       },
     ];

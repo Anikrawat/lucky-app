@@ -9,7 +9,7 @@ function Home() {
       <div className="customer-care-container">
         <div className="banner">
           <img
-            src="src/assets/my_girl.png" // Adjusted image source path if needed
+            src="/assets/my_girl.png" // Adjusted image source path if needed
             alt="New Collection"
             className="banner-image"
           />
